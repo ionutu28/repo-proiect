@@ -22,6 +22,13 @@ Passionate about [Java Programming, C++ Programming, HTML/CSS] and eager to lear
 I created a Tetris game in C++, applying object-oriented programming and collision detection algorithms.  
 The project includes mechanics for piece rotation and movement, a scoring system, and graphical optimizations.
 
+**Context:**
+This project was created to strengthen my understanding of OOP concepts, real-time game logic, and algorithmic thinking through a classic game implementation.
+
+**Problem it solves:**
+The project simulates the classic Tetris gameplay experience while demonstrating how object-oriented design and collision detection can be used to manage dynamic game elements efficiently.
+
+
 **Technologies:** [Visual Studio Code, C++]  
 🔗 [https://www.youtube.com/watch?v=jcUctrLC-7M]
 
@@ -68,6 +75,4 @@ The code is modular and easy to extend with new features.
 - 🔗 LinkedIn: [www.linkedin.com/in/ionut-marian-sima-866b43362]  
 - 📞 Phone: [0761024045]
 
-- 📧 Email: [isima6187@gmail.com]  
-- 🔗 LinkedIn: [www.linkedin.com/in/ionut-marian-sima-866b43362]  
-- 📞 Phone: [0761024045]
+
