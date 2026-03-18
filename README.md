@@ -28,7 +28,6 @@ This project was created to strengthen my understanding of OOP concepts, real-ti
 **Problem it solves:**
 The project simulates the classic Tetris gameplay experience while demonstrating how object-oriented design and collision detection can be used to manage dynamic game elements efficiently.
 
-
 **Technologies:** [Visual Studio Code, C++]  
 🔗 [https://www.youtube.com/watch?v=jcUctrLC-7M]
 
@@ -39,6 +38,12 @@ The project simulates the classic Tetris gameplay experience while demonstrating
 **Description:**  
 I developed an autonomous robot using Arduino Uno and ultrasonic sensors, capable of detecting and avoiding obstacles.  
 Its behavior is managed through C++ algorithms, combining creative solutions with modern technology to optimize navigation in unknown environments.
+
+**Context:**
+This project was developed to explore embedded systems, sensor-based navigation, and the interaction between software and hardware in robotics applications.
+
+**Problem it solves:**
+The robot provides a simple autonomous navigation solution for unknown environments, showing how sensors and programmed logic can be used to improve mobility and obstacle detection.
 
 **Technologies:** [Arduino]  
 🔗 [https://robotlk.com/how-to-make-arduino-obstacle-avoiding-robot/]
@@ -51,22 +56,13 @@ Its behavior is managed through C++ algorithms, combining creative solutions wit
 I built a classic Snake game in Java, learning about object-oriented programming and user interface design.  
 The game includes features like saved scores and graphical improvements, helping me strengthen my skills in creating interactive applications.
 
+**Context:**  
+This project was developed as a practical way to improve my Java programming skills and gain experience in building interactive desktop applications.
+
+**Problem it solves:**  
+ The project recreates the classic Snake gameplay while demonstrating the use of Java for event-driven programming, game state management, and simple UI design.
+
 **Technologies:** [IntelliJ IDEA]
-
----
-
-### 4️⃣ <a href="https://github.com/ionutu28/Game-snake-MATLAB.git">[Game Snake MATLAB]</a>
- 
-**Description:**  
-This project is a version of the classic Snake game built in MATLAB.  
-It features a graphical interface, full keyboard controls, real-time movement using a timer, score saving, and a restart button.  
-The code is modular and easy to extend with new features.
-
-**Technologies:** [MATLAB]  
-🔗 [https://en.wikipedia.org/wiki/Snake_(video_game_genre)]  
-🔗 [https://www.mathworks.com/help/matlab/ref/rectangle.html]  
-🔗 [https://www.mathworks.com/help/matlab/ref/timer.html]  
-🔗 [https://www.mathworks.com/help/matlab/ref/uicontrol.html]
 
 ---
 
