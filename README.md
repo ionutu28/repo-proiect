@@ -66,9 +66,6 @@ This project was developed as a practical way to improve my Java programming ski
 
 ---
 
-## 📬 Contact
-- 📧 Email: [isima6187@gmail.com]  
-- 🔗 LinkedIn: [www.linkedin.com/in/ionut-marian-sima-866b43362]  
-- 📞 Phone: [0761024045]
+
 
 
