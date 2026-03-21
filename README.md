@@ -63,7 +63,9 @@ This project was developed as a practical way to improve my Java programming ski
  The project recreates the classic Snake gameplay while demonstrating the use of Java for event-driven programming, game state management, and simple UI design.
 
 **Technologies:** [IntelliJ IDEA]
+
 🔗 [https://www.youtube.com/watch?v=Y62MJny9LHg]
+
 ---
 
 
