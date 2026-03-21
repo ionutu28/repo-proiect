@@ -16,9 +16,8 @@ Passionate about Java, C++, and Web Development (HTML/CSS), and eager to learn t
 
 ## 📂 Projects
 
-### 🎮 Tetris Game (C++)
-🔗 [GitHub Repository](https://github.com/ionutu28/Game-Tetris-Proiect-)  
-🎥 [Demo Video](https://www.youtube.com/watch?v=jcUctrLC-7M)
+### 🎮 <a href="https://github.com/ionutu28/Game-Tetris-Proiect-">Tetris Game (C++)</a>  
+🎥 <a href="https://www.youtube.com/watch?v=jcUctrLC-7M">Demo Video</a>
 
 **Description:**  
 Developed a classic Tetris game in C++ using object-oriented programming. The project includes piece movement, rotation, collision detection, line clearing, and score tracking.
@@ -36,9 +35,8 @@ Created as a personal project to strengthen understanding of OOP concepts, real-
 
 ---
 
-### 🤖 Obstacle Avoiding Robot
-🔗 [GitHub Repository](https://github.com/ionutu28/Obstacle-avoiding-robot.git)  
-🌐 [Project Reference](https://robotlk.com/how-to-make-arduino-obstacle-avoiding-robot/)
+### 🤖 <a href="https://github.com/ionutu28/Obstacle-avoiding-robot.git">Obstacle Avoiding Robot</a>  
+🌐 <a href="https://robotlk.com/how-to-make-arduino-obstacle-avoiding-robot/">Project Reference</a>
 
 **Description:**  
 Built an autonomous robot using Arduino Uno and ultrasonic sensors to detect and avoid obstacles in real time.
@@ -55,9 +53,8 @@ Developed as a hands-on project to explore embedded systems, sensor integration,
 
 ---
 
-### 🐍 Snake Game (Java)
-🔗 [GitHub Repository](https://github.com/ionutu28/Game-snake---Java)  
-🎥 [Demo Video](https://www.youtube.com/watch?v=Y62MJny9LHg)
+### 🐍 <a href="https://github.com/ionutu28/Game-snake---Java">Snake Game (Java)</a>  
+🎥 <a href="https://www.youtube.com/watch?v=Y62MJny9LHg">Demo Video</a>
 
 **Description:**  
 Implemented the classic Snake game in Java using object-oriented programming and Java Swing for the graphical interface.
@@ -74,5 +71,3 @@ Developed as a practical project to improve Java skills and gain experience in b
 **Technologies:** Java, IntelliJ IDEA  
 
 ---
-
-
