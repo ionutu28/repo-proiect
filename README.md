@@ -64,7 +64,6 @@ This project was developed as a practical way to improve my Java programming ski
 
 **Technologies:** [IntelliJ IDEA]
 🔗 [https://www.youtube.com/watch?v=Y62MJny9LHg]
-
 ---
 
 
