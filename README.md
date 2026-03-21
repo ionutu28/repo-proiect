@@ -1,5 +1,78 @@
-# 👋 Hello! I'm Sima Ionut-Marian Student at **Transilvania University of Brașov, Faculty of Electrical Engineering and Computer Science**, majoring in **ETTI**. Passionate about [Java Programming, C++ Programming, HTML/CSS] and eager to learn through hands-on projects. --- ## 🚀 About Me - 🎓 Student at **Faculty of Electrical Engineering and Computer Science** - 💡 Interests: [Java Programming, C++ Programming, HTML/CSS] - 🛠️ Preferred tools & technologies: [MATLAB, Visual Studio Code, IntelliJ IDEA, Arduino] - 🤝 I enjoy working in teams and constantly learning new things --- ## 📂 Projects ### 1️⃣ <a href="https://github.com/ionutu28/Game-Tetris-Proiect-">[Game-Tetris-Proiect]</a> **Description:** I created a Tetris game in C++, applying object-oriented programming and collision detection algorithms. The project includes mechanics for piece rotation and movement, a scoring system, and graphical optimizations. **Context:** This project was created to strengthen my understanding of OOP concepts, real-time game logic, and algorithmic thinking through a classic game implementation. **Problem it solves:** The project simulates the classic Tetris gameplay experience while demonstrating how object-oriented design and collision detection can be used to manage dynamic game elements efficiently. **Technologies:** [Visual Studio Code, C++] 🔗 [https://www.youtube.com/watch?v=jcUctrLC-7M] --- ### 2️⃣ <a href="https://github.com/ionutu28/Obstacle-avoiding-robot.git">[Obstacle Avoiding Robot]</a> **Description:** I developed an autonomous robot using Arduino Uno and ultrasonic sensors, capable of detecting and avoiding obstacles. Its behavior is managed through C++ algorithms, combining creative solutions with modern technology to optimize navigation in unknown environments. **Context:** This project was developed to explore embedded systems, sensor-based navigation, and the interaction between software and hardware in robotics applications. **Problem it solves:** The robot provides a simple autonomous navigation solution for unknown environments, showing how sensors and programmed logic can be used to improve mobility and obstacle detection. **Technologies:** [Arduino] 🔗 [https://robotlk.com/how-to-make-arduino-obstacle-avoiding-robot/] --- ### 3️⃣ <a href="https://github.com/ionutu28/Game-snake---Java">[Game Snake---Java]</a> **Description:** I built a classic Snake game in Java, learning about object-oriented programming and user interface design. The game includes features like saved scores and graphical improvements, helping me strengthen my skills in creating interactive applications. **Context:** This project was developed as a practical way to improve my Java programming skills and gain experience in building interactive desktop applications. **Problem it solves:** The project recreates the classic Snake gameplay while demonstrating the use of Java for event-driven programming, game state management, and simple UI design. **Technologies:** [IntelliJ IDEA] 🔗 [https://www.youtube.com/watch?v=Y62MJny9LHg]
+# 👋 Hello! I'm Sima Ionut-Marian
 
+Student at **Transilvania University of Brașov, Faculty of Electrical Engineering and Computer Science**, majoring in **Electronics, Telecommunications and Information Technology (ETTI)**.  
+Passionate about Java, C++, and Web Development (HTML/CSS), and eager to learn through hands-on projects.
 
+---
+
+## 🚀 About Me
+
+- 🎓 Student at **Faculty of Electrical Engineering and Computer Science**  
+- 💡 Interests: Java, C++, Web Development (HTML/CSS)  
+- 🛠️ Technologies & Tools: MATLAB, Visual Studio Code, IntelliJ IDEA, Arduino  
+- 🤝 Team-oriented, motivated, and eager to continuously improve  
+
+---
+
+## 📂 Projects
+
+### 🎮 Tetris Game (C++)
+🔗 [GitHub Repository](https://github.com/ionutu28/Game-Tetris-Proiect-)  
+🎥 [Demo Video](https://www.youtube.com/watch?v=jcUctrLC-7M)
+
+**Description:**  
+Developed a classic Tetris game in C++ using object-oriented programming. The project includes piece movement, rotation, collision detection, line clearing, and score tracking.
+
+**Context:**  
+Created as a personal project to strengthen understanding of OOP concepts, real-time game logic, and algorithmic thinking.
+
+**Key Features:**
+- Real-time gameplay and responsive controls  
+- Collision detection and piece interaction  
+- Line clearing and scoring system  
+- Clean and modular code structure  
+
+**Technologies:** C++, Visual Studio Code  
+
+---
+
+### 🤖 Obstacle Avoiding Robot
+🔗 [GitHub Repository](https://github.com/ionutu28/Obstacle-avoiding-robot.git)  
+🌐 [Project Reference](https://robotlk.com/how-to-make-arduino-obstacle-avoiding-robot/)
+
+**Description:**  
+Built an autonomous robot using Arduino Uno and ultrasonic sensors to detect and avoid obstacles in real time.
+
+**Context:**  
+Developed as a hands-on project to explore embedded systems, sensor integration, and hardware-software interaction.
+
+**Key Features:**
+- Obstacle detection using ultrasonic sensors  
+- Autonomous navigation logic  
+- Integration of hardware components with control algorithms  
+
+**Technologies:** Arduino, C++  
+
+---
+
+### 🐍 Snake Game (Java)
+🔗 [GitHub Repository](https://github.com/ionutu28/Game-snake---Java)  
+🎥 [Demo Video](https://www.youtube.com/watch?v=Y62MJny9LHg)
+
+**Description:**  
+Implemented the classic Snake game in Java using object-oriented programming and Java Swing for the graphical interface.
+
+**Context:**  
+Developed as a practical project to improve Java skills and gain experience in building interactive desktop applications.
+
+**Key Features:**
+- Real-time gameplay with keyboard controls  
+- Collision detection and game state management  
+- Score tracking system  
+- GUI implemented with Java Swing  
+
+**Technologies:** Java, IntelliJ IDEA  
+
+---
 
 
