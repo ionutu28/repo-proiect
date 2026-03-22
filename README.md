@@ -16,7 +16,7 @@ Passionate about Java, C++, and Web Development (HTML/CSS), and eager to learn t
 
 ## 📂 Projects
 
-### 🎮 <a href="https://github.com/ionutu28/Game-tetris-C-/tree/main">Tetris Game (C++)</a>  
+### 🎮 <a href="https://github.com/ionutu28/Game-tetris-C-">Tetris Game (C++)</a>  
 🎥 <a href="https://www.youtube.com/watch?v=jcUctrLC-7M">Gameplay Video</a>
 
 **Description:**  
