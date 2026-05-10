@@ -71,3 +71,34 @@ Developed as a practical project to improve Java skills and gain experience in b
 **Technologies:** Java, IntelliJ IDEA  
 
 ---
+
+### 🐍 <a href="https://github.com/ionutu28/Game-snake-MATLAB">Snake game MATLAB</a>
+
+**Description:**
+This project is a modern version of the classic Snake game, built entirely in MATLAB. The game uses a Graphical User Interface (GUI) and runs real-time movement through a timer object. It includes keyboard controls, score tracking, random food spawning, and a restart option.
+
+**Context:**
+- Real-time gameplay using timer-based execution
+- Keyboard controls (Arrow keys for movement, P for pause/resume)
+- Random food generation with score increase
+- Persistent high score saved in a .mat file
+- Restart button to reset the game instantly
+- Simple and modular code structure for easy modification and expansion
+
+**Key Features:**
+- MATLAB GUI development (uicontrol, axes, graphics objects)
+- Event-driven programming and keyboard input handling
+- Real-time animation using timer objects
+- Collision detection and game logic implementation
+- File input/output for saving and loading scores
+
+**Tehnologies:**
+- MATLAB (core development environment)
+- MATLAB App / GUI development tools (figure, axes, uicontrol, rectangle)
+- Timer objects for real-time game loop execution
+- MATLAB graphics system for rendering and animation
+- Event-driven programming (keyboard input handling via KeyPressFcn)
+- File I/O with .mat files for saving and loading high scores
+- Data structures and matrix operations for game logic (snake movement & collision detection)
+
+---
